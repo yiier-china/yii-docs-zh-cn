@@ -36,9 +36,9 @@
 
 **每次翻译或校对前**
 
-6. 在本地目录内，运行`git remote update`更新两库 
-7. 在本地目录内，运行`git fetch upstream master`拉取两库的更新到本地 
-8. 在本地目录内，使用`git checkout editing`切换回你的日常分支后，运行 `git rebase upstream/master`将两库的更新合并到你的分支
+6. 在本地目录内，运行`git remote update`更新
+7. 在本地目录内，运行`git fetch upstream master`拉取更新到本地 
+8. 在本地目录内，使用`git checkout editing`切换回你的日常分支后，运行 `git rebase upstream/master`将更新合并到你的分支
 
 
 
